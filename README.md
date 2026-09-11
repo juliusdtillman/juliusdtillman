@@ -1,16 +1,16 @@
 # Julius Tillman
 
-I’m an Information Technology student focused on networking and cloud infrastructure. I use hands-on projects to strengthen my understanding of network design, cloud connectivity, segmentation, security controls, and troubleshooting. My goal is to build infrastructure that is practical, secure, and clearly documented—not simply complete guided labs.
+I’m an Information Technology student focused on networking and cloud infrastructure. I use hands-on projects to strengthen my understanding of network design, cloud connectivity, segmentation, security controls, and troubleshooting. My goal is to build infrastructure that is practical, secure, and clearly documented—not simply complete guided exercises.
 
 ## Featured Project
 
-### Azure Networking Portfolio
+### Azure Secure Virtual Network Deployment
 
-A growing collection of scenario-based Azure networking projects. Each project explains the problem, requirements, design choices, implementation, validation process, limitations, and possible production improvements.
+A documented Azure network design for a two-tier application using separate frontend and backend subnets, a dedicated hub virtual network, a reserved Azure Firewall subnet, and bidirectional VNet peering.
 
-**Featured build:** A segmented Azure network using virtual networks, subnets, network security groups, and VNet peering to support controlled communication between workloads.
+The project covers the network requirements, address plan, design choices, implementation, validation evidence, current limitations, and next steps.
 
-[View the Azure Networking Portfolio](https://github.com/juliusdtillman/azure-networking-labs)
+[View the Azure Secure Virtual Network Deployment](https://github.com/juliusdtillman/azure-secure-virtual-network-deployment)
 
 ## Current Focus
 
@@ -28,7 +28,7 @@ A growing collection of scenario-based Azure networking projects. Each project e
 
 **Networking:** TCP/IP, subnetting, VLANs, routing, switching, DNS, DHCP, network troubleshooting
 
-**Cloud:** Microsoft Azure, Oracle Cloud Infrastructure, virtual networks, subnets, NSGs, VNet peering
+**Cloud:** Microsoft Azure, Oracle Cloud Infrastructure, virtual networks, subnets, VNet peering, VCNs
 
 **Systems:** Windows, Linux, Active Directory fundamentals
 
