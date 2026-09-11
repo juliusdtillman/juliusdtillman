@@ -30,24 +30,24 @@ A.A.S. Health Science · Graduated 2021
 
 ## Technical Projects
 
-### Azure Networking Portfolio
-**Microsoft Azure — Portfolio**
+### Azure Secure Virtual Network Deployment
+**Microsoft Azure**
 
 - Designed a hub-and-spoke foundation for a two-tier application using non-overlapping Azure virtual networks.
-- Separated frontend and backend workloads and reserved AzureFirewallSubnet for future security services.
+- Separated frontend and backend workloads and reserved `AzureFirewallSubnet` for future security services.
 - Configured bidirectional VNet peering and validated Connected and Fully Synchronized status.
 
-[View Azure Networking Portfolio](https://github.com/juliusdtillman/azure-networking-labs)
+[View Azure Secure Virtual Network Deployment](https://github.com/juliusdtillman/azure-secure-virtual-network-deployment)
 
-### Cisco Networking Labs
+### Cisco Network Configuration Practice
 **Cisco Packet Tracer — Ongoing**
 
 - Build simulated networks with Cisco routers, switches, and end devices.
 - Configure Cisco IOS devices, IPv4 addresses, and subnet masks, then verify connectivity.
 - Troubleshoot communication problems through configuration review and connectivity testing.
 
-### OCI Cloud Infrastructure Labs
-**Oracle Cloud Infrastructure — Complete**
+### OCI Cloud Infrastructure Project
+**Oracle Cloud Infrastructure**
 
 - Designed a VCN with public and private subnets, Internet and NAT gateways, and route tables.
 - Launched Linux compute instances, test web services, and Object Storage buckets.
