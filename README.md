@@ -1,62 +1,34 @@
 # Julius Tillman
 
-**Networking | Systems Engineering | Cloud Infrastructure**
+**Networking | Systems | Cloud Infrastructure**
 
-I'm studying Information Technology and using hands on projects to strengthen my understanding of how networks, computer systems, and cloud infrastructure work together. I want to understand how these systems are built, how they communicate, and how to find problems when something does not work as expected. My focus is on networking, hybrid infrastructure, and secure enterprise and cloud systems. Over time, I want to build on that foundation with AI infrastructure and platform engineering.
-
-## Areas I'm Building On
-
-**Networking and Hybrid Infrastructure**
-
-I'm developing my skills in routing, switching, IPv4 addressing, network troubleshooting, and connecting different environments. I use practical labs to understand what happens beyond the basic configuration.
-
-**Enterprise Systems and Cloud Infrastructure**
-
-I'm learning more about operating systems, computing resources, cloud networks, access controls, and how different services fit together. I want to understand both the individual parts and the full environment they support.
-
-**Future Direction: AI Infrastructure**
-
-As I gain more experience with networking and systems, I want to explore the infrastructure behind AI workloads. My longer term interests include secure platforms, automation, monitoring, and reliable computing systems.
+I'm studying Information Technology and building a better understanding of how networks, computer systems, and cloud services work together. I focus on working with configurations, following how data moves, and checking that things work. I'm also learning more about Linux, access controls, automation, and the hardware that supports larger systems.
 
 ## Featured Projects
 
 ### Azure Secure Virtual Network Deployment
 
-I designed an Azure network foundation for a small application using separate frontend and backend subnets, a shared hub network, and VNet peering. I documented the address plan, why I made each design choice, what Azure confirmed, and what still needs to be built.
+I planned separate frontend and backend subnets, created a hub network, and configured VNet peering in Azure. I checked that the address ranges did not overlap and that Azure reported the peering as Connected and Fully Synchronized.
 
 [View the Azure project](https://github.com/juliusdtillman/azure-secure-virtual-network-deployment)
 
 ### 8 Bit CPU and ALU in Logisim
 
-I used Logisim to explore how a processor stores and processes data. The circuit includes two registers, 14 ALU operations, opcode selection, status flags, and a way to save a result back into a register. I tested the operations and traced problems in the wiring and shift settings to understand how the circuit behaves.
+I worked with two registers, 14 ALU operations, opcode controls, and status flags to understand how a processor handles data. I manually tested the operations, fixed a shift direction issue, and checked the circuit results in Logisim.
 
 [View the CPU and ALU project](https://github.com/juliusdtillman/8-bit-cpu-alu-logisim)
 
-## Current Focus
+## Hands On Practice
 
-* Pursuing a Bachelor of Science in Information Technology at Purdue Global
-* Maintaining a 4.00 GPA
-* Preparing for the Cisco Certified Network Associate (CCNA)
-* Building and documenting networking, computer architecture, and cloud projects
-* Practicing Linux, systems fundamentals, and infrastructure troubleshooting
+* **Cisco Packet Tracer:** Configured simulated routers and switches, set IPv4 addresses, and checked device connectivity.
+* **Azure:** Created subnets and connected virtual networks with VNet peering.
+* **Oracle Cloud:** Worked with Linux compute, virtual cloud networking, routing, and access policies.
+* **Logisim:** Tested register loading, write back, arithmetic and logic operations, and status flags.
 
-## Certification
+## What I'm Working On
 
-* Oracle Cloud Infrastructure 2025 Certified Foundations Associate
-
-## Technical Skills
-
-**Networking:** TCP/IP, IPv4 subnetting, VLANs, routing and switching fundamentals, DNS, DHCP, network troubleshooting
-
-**Cloud:** Microsoft Azure, Oracle Cloud Infrastructure, virtual networks, subnets, VNet peering, VCNs
-
-**Systems:** Windows, Linux fundamentals, Active Directory fundamentals, digital logic and computer architecture
-
-**Tools:** Cisco Packet Tracer, Wireshark, Logisim, Git, GitHub
-
-**Building toward:** Systems administration, infrastructure automation, hybrid cloud systems, secure AI platforms
+I'm continuing my IT degree and studying computer architecture, data structures, and math while building practical networking and systems skills. I'm preparing for the CCNA and strengthening my understanding of Linux, troubleshooting, and cloud connectivity. I also want to learn how automation, monitoring, and secure platforms support larger computing workloads.
 
 ## Connect
 
-* [LinkedIn](https://www.linkedin.com/in/julius-tillman-it)
-* [Résumé](./resume.md)
+[LinkedIn](https://www.linkedin.com/in/julius-tillman-it)
